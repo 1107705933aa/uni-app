@@ -1,0 +1,125 @@
+  @font-face {
+	font-family: 'iconfont';  /* project id 2055363 */
+	src: url('./static/css/iconfont-test/font_2055363_3mihk6i0ny.eot');
+	src: url('./static/css/iconfont-test/font_2055363_3mihk6i0ny.eot?#iefix') format('embedded-opentype'),
+	url('./static/css/iconfont-test/font_2055363_3mihk6i0ny.woff2') format('woff2'),
+	url('./static/css/iconfont-test/font_2055363_3mihk6i0ny.woff') format('woff'),
+	url('./static/css/iconfont-test/font_2055363_3mihk6i0ny.ttf') format('truetype'),
+	url('./static/css/iconfont-test//font_2055363_3mihk6i0ny.svg#iconfont') format('svg');
+  }
+
+.iconfont {
+	font-family: 'iconfont' !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gongzuoxingzhi:before {
+	content: '\e6466';
+}
+
+.icon-jianyanleixingweihu:before {
+	content: '\e716';
+}
+
+.icon-04-lingyufenlei:before {
+	content: '\e6188';
+}
+.icon-chousongjiandanwei:before {
+	content: '\e6f0a';
+}
+
+.icon-guanxiaobaotubiao16:before {
+	content: '\e66ff';
+}
+
+.icon-ren:before {
+	content: '\e6022';
+}
+
+.icon-dianhua:before {
+	content: '\eac2';
+}
+
+.icon-yangpin:before {
+	content: '\e6222';
+}
+
+.icon-shipin:before {
+	content: '\e6011';
+}
+
+.icon-dingzhifuwu:before {
+	content: '\e813';
+}
+
+.icon-feiyongyugu:before {
+	content: '\e6077';
+}
+
+.icon-dingdanhao:before {
+	content: '\e612';
+}
+
+.icon-shoujihao:before {
+	content: '\e62d';
+}
+
+.icon-yanzhengmamima:before {
+	content: '\e611';
+}
+
+.icon-youwuyuqi:before {
+	content: '\e619';
+}
+
+.icon-shuqianbiaozhubiaojizhengshurenzhengxianxing:before {
+	content: '\e996';
+}
+
+.icon-chaxunma:before {
+	content: '\e61c';
+}
+
+.icon-zhiliang:before {
+	content: '\e6ce';
+}
+
+.icon-1remenbangdan:before {
+	content: '\e6216';
+}
+
+.icon-fanhui:before {
+	content: '\e6088';
+}
+
+.icon-shouyeyoushangjiao_saoyisao:before {
+	content: '\e81e';
+}
+
+.icon-qingchulishijiluicon:before {
+	content: '\e62b';
+}
+
+.icon-meiyou:before {
+	content: '\e635';
+}
+
+.icon-zuoce:before {
+	content: '\e6035';
+}
+
+.icon-youce2:before {
+	content: '\e6055';
+}
+
+
+.icon-shezhi-copy:before {
+	content: '\e6012';
+}
+
+.icon-xiaoxii:before {
+	content: '\e6101';
+}

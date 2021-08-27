@@ -1,0 +1,26 @@
+// .grid[class*='cols-'] {
+//     display: flex;
+//     flex-wrap: wrap;
+//     flex-direction: row;
+//   }
+//   .o-title {
+//     font-size: 28rpx;
+//     color: #888;
+//     height: 50rpx;
+//     line-height: 50rpx;
+//     position: relative;
+//     padding-left: 30rpx;
+//     padding-top: 10rpx;
+//     box-sizing: content-box;
+//     &::after {
+//       position: absolute;
+//       content: '';
+//       left: 10rpx;
+//       top: 22rpx;
+//       height: 24rpx;
+//       width: 6rpx;
+//       border-radius: 30px;
+//       background-color: #999;
+//       z-index: 2;
+//     }
+//   }
